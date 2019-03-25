@@ -1,0 +1,13 @@
+Name:         default-token-w5shk
+Namespace:    default
+Labels:       <none>
+Annotations:  kubernetes.io/service-account.name: default
+              kubernetes.io/service-account.uid: a3e29368-4eed-11e9-87dd-000c29a8a60e
+
+Type:  kubernetes.io/service-account-token
+
+Data
+====
+ca.crt:     1025 bytes
+namespace:  7 bytes
+token:      eyJhbGciOiJSUzI1NiIsImtpZCI6IiJ9.eyJpc3MiOiJrdWJlcm5ldGVzL3NlcnZpY2VhY2NvdW50Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9uYW1lc3BhY2UiOiJkZWZhdWx0Iiwia3ViZXJuZXRlcy5pby9zZXJ2aWNlYWNjb3VudC9zZWNyZXQubmFtZSI6ImRlZmF1bHQtdG9rZW4tdzVzaGsiLCJrdWJlcm5ldGVzLmlvL3NlcnZpY2VhY2NvdW50L3NlcnZpY2UtYWNjb3VudC5uYW1lIjoiZGVmYXVsdCIsImt1YmVybmV0ZXMuaW8vc2VydmljZWFjY291bnQvc2VydmljZS1hY2NvdW50LnVpZCI6ImEzZTI5MzY4LTRlZWQtMTFlOS04N2RkLTAwMGMyOWE4YTYwZSIsInN1YiI6InN5c3RlbTpzZXJ2aWNlYWNjb3VudDpkZWZhdWx0OmRlZmF1bHQifQ.Xv5hZffBLn2t8I9VedM-COJWlXGy_kqBHN2kBcBWGoHrQkAp6JAG2HxdcDPyOWYhKXM0h3GhP-hhTV27lV9QHsgJE076O6QjZdGhyTOhZm3o4Skp65xNfXs6FNKXRM6GAAbU2A7IIdw4qxw1p49DheyHptzLyVWcSXUqcX-AiRiL4eIi3CPmm0-TYa0mTL33Ex5z8ZiLtm8uoL6O2QopUMJMssViFbbX5Yr6R1av1NDH3W5Uua0gLLZ9YsGVIokH7IdsY3fBLaYmBRYSbRywrJgvau6q4aH00nkxXqI69WYmXEMNWQ8glVPhz364MReFaVBkTbaoXoa2NPdSF7majw
